@@ -6,5 +6,5 @@
 ## OBJECTIVES
 * <p align="justify">To analyze the Covid 19 disease based on the given dataset.</p>
 * <p align="justify">Visualize the data using relevant graphs and charts in order to understand the correlations between various characteristics.</p>
-* <p align="justify">Conduct a thorough statistical analysis of the SARS-CoV-2 dataset for a better understanding of the variable distribution and features.</p>
+* <p align="justify">Conduct a thorough statistical analysis of the SARS-CoV-2 dataset for a better understanding of the variable distribution and features.
 * <p align="justify">Explore the developed program's practical applications in various healthcare environments.
