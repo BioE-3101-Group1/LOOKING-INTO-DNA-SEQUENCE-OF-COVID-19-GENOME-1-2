@@ -4,7 +4,7 @@
 <p align="justify">In the pursuit of advancing our understanding and management of the COVID-19 pandemic, this study embarked on an important objective. The main goal of this study was to analyze the data of  COVID 19 disease by using the data set of genome sequence for analysis and information. The dataset includes a diverse set of genome sequences  allowing for a detailed examination of its genetic variations. The objective is to use the information obtained from the dataset analysis to support prevention healthcare initiatives.</p>
 
 ## OBJECTIVES
-<p align="justify"> * To analyze the Covid 19 disease based on the given dataset.</p>
+* <p align="justify">To analyze the Covid 19 disease based on the given dataset.</p>
 * Visualize the data using relevant graphs and charts in order to understand the correlations between various characteristics.
 * Conduct a thorough statistical analysis of the SARS-CoV-2 dataset for a better understanding of the variable distribution and features.
 * Explore the developed program's practical applications in various healthcare environments.
