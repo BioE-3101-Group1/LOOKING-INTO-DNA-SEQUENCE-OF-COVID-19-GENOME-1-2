@@ -59,27 +59,26 @@
 <p align="justify">The nucleotide sequence of the coronavirus disease (COVID-19) genome is the specific order of nucleotide bases such as adenine (A), cytosine (C), guanine (G), and thymine  (T), that make up the genetic material of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). 29,845 nucleotides are the total number of nucleotides used, however figure 1 only displays the initial 300 nucleotides for concise overview. Moreover, analyzing these initial sequences can provide insights about functional elements, such as coding region or regulatory sequence.</p>
 <br>
 
-<p align="center"><img width="211" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/ac8b5de0-6009-48a3-910e-4fbb49d41031"></p>
+<p align="center"><img width="300" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/ac8b5de0-6009-48a3-910e-4fbb49d41031"></p>
 <p align="justify">The barplot offers a clear visual representation of the frequency distribution of nucleotides within the dataset. Each bar on the plot corresponds to a specific nucleotide, and the height of each bar reflects the relative abundance of that nucleotide in percentage terms. Analyzing the graph, the following composition percentages for each nucleotide are as follows: adenine (A) with 29.817%, cytosine (C) with 18.362%, guanine (G) with 19.605%, and thymine with 32.126%. These percentage values provide information about the proportional representation of each nucleotide in the analyzed dataset. Thymine, with the highest composition at 32.126%, stands out as the most prevalent nucleotide, while adenine, cytosine, and guanine contribute to the composition with their respective percentages. This breakdown not only highlights the prevalence of each nucleotide but also allows for a quick and comparative assessment of their distribution within the genomic sequence under consideration.</p>
-<br>
 
-<p align="center"><img width="219" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/7d2f71f1-8f47-4afb-ad65-cd9f706ba3ff"></p>
+<p align="center"><img width="300" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/7d2f71f1-8f47-4afb-ad65-cd9f706ba3ff"></p>
 <p align="justify">Trimer refers to the sequence of three nucleotide bases that are consecutive along the DNA strand. The provided table offers a comprehensive overview of the dataset's trimer composition, presenting the corresponding count or number of occurrences for each unique trimer sequence. Each row in the table corresponds to a distinct trimer, while the associated count refers to the frequency with which each trimer appears in the DNA dataset.</p>
 <br>
 
-<p align="center"><img width="254" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/020cc067-234f-433b-b85b-b194b3dbd4bf"></p>
+<p align="center"><img width="300" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/020cc067-234f-433b-b85b-b194b3dbd4bf"></p>
 <p align="justify">Figure 4 serves as a visual complement to Figure 3, offering an alternative representation of the trimer distribution in the dataset. While Figure 3 presents the number of trimers in descending order, Figure 4 diverges by providing a barplot that showcases the distribution of trimers without a specific ordering. The barplot illustrates the distribution of the 32 unique trimer sequences found in the dataset, with each trimer associated with a distinct count of nucleotides. The longer bars signify more frequently occurring trimers, while shorter bars indicate less common ones.</p>
 <br>
 
-<p align="center"><img width="239" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/62451978-c31d-40b7-8c44-92d446989c39"></p>
+<p align="center"><img width="300" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/62451978-c31d-40b7-8c44-92d446989c39"></p>
 <p align="justify">The table shows the length of amino acids. The count column shows the number of the amino acid sequence into the dataset. Seen in the middle column are the amino acid sequences that are being counted. The table only shows only 10 results as “nlargest” code was used for it to show the top 10 rows based on the count column. The table shows a clear representation of identifying the top 10 amino acid sequences by its length from the given data which can be useful in analysis of the dataset.</p>
 <br>
 
-<p align="center"><img width="154" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/a16e6d36-0852-4387-b3f5-7215ebec261c"></p>
+<p align="center"><img width="200" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/a16e6d36-0852-4387-b3f5-7215ebec261c"></p>
 <p align="justify">The table shows the protein sequence (ncov_protein), calculates the percentage composition of each amino acid using the defined function, converts the results into a DataFrame, sorts the DataFrame based on composition.</p>
 <br>
 
-<p align="center"><img width="224" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/76c3c35a-58b8-486c-a4f5-0392201179ba"></p>
+<p align="center"><img width="260" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/76c3c35a-58b8-486c-a4f5-0392201179ba"></p>
 <p align="justify">The figure is a visualization of the composition of amino acids in the table above using a bar chart with a purple color gradient. The visualization provides a quick and intuitive overview of the amino acid composition in the given protein sequence.</p>
 
 ## APPLICATION
