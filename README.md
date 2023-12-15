@@ -36,14 +36,14 @@
 
 **Tri-nucleotide Compositions (Trimer)**
 <p align="justify">The trinucleotide composition of the genome is presented which can be used in the context of computational genomics and sequence analysis.</p>
-</b>
+
 
 ### II. Preprocessing Data
 <p align="justify">The data acquired from the previous section are processed to be used for molecular analysis. This includes performing protein synthesis, acquiring the amino acids from the synthesized proteins, and cleaning the list of proteins by removing chains smaller than 20 amino acids long.</p>
 
 **Imitating Protein Synthesis**
 <p align="justify">The program imitates the protein synthesis of the genome. It performed transcription and translation. The process by which DNA is copied to RNA is called transcription, and that by which RNA is used to produce proteins is called translation. </p>
-</b>
+
 
 ### III. Analysis
 <p align="justify">After the data is cleaned and removed of short amino acids, they can now be analyzed through protein analysis and amino acid composition. In protein analysis, the longest amino acid chain is studied. It was analyzed using codes to reveal its Molecular Weight, Aromaticity, Isoelectric Point, and Composition. </p>
