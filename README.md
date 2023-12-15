@@ -13,6 +13,7 @@
 <p align="justify">The Biopython Project is an international association of developers of freely available Python tools for computational molecular biology. Python is an object oriented, interpreted, flexible language that is becoming increasingly popular for scientific computing. </p>
 <p align="justify">In this project, COVID genome will be analyzed by using the Python language. The sequence used can be downloaded from http://www.ncbi.nlm.nih.gov/. NCBI is now a leading source for public biomedical databases, software tools for analyzing molecular and genomic data, and research in computational biology.</p>
 <p align="justify">Various modules are needed to run the program which includes the following:</p>
+
 * <p align="justify">numpy - adds powerful data structures to Python that guarantee efficient calculations with arrays and matrices and it supplies an enormous library of high-level mathematical functions.</p>
 * <p align="justify">pandas - for analyzing, cleaning, exploring, and manipulating data.</p>
 * <p align="justify">Bio - built for helping in performing genomic data analysis.</p>
@@ -35,12 +36,14 @@
 
 **Tri-nucleotide Compositions (Trimer)**
 <p align="justify">The trinucleotide composition of the genome is presented which can be used in the context of computational genomics and sequence analysis.</p>
+</b>
 
 ### II. Preprocessing Data
 <p align="justify">The data acquired from the previous section are processed to be used for molecular analysis. This includes performing protein synthesis, acquiring the amino acids from the synthesized proteins, and cleaning the list of proteins by removing chains smaller than 20 amino acids long.</p>
 
 **Imitating Protein Synthesis**
-The program imitates the protein synthesis of the genome. It performed transcription and translation. The process by which DNA is copied to RNA is called transcription, and that by which RNA is used to produce proteins is called translation. 
+<p align="justify">The program imitates the protein synthesis of the genome. It performed transcription and translation. The process by which DNA is copied to RNA is called transcription, and that by which RNA is used to produce proteins is called translation. </p>
+</b>
 
 ### III. Analysis
 <p align="justify">After the data is cleaned and removed of short amino acids, they can now be analyzed through protein analysis and amino acid composition. In protein analysis, the longest amino acid chain is studied. It was analyzed using codes to reveal its Molecular Weight, Aromaticity, Isoelectric Point, and Composition. </p>
