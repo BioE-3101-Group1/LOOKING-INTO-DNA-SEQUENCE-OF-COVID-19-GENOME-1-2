@@ -55,7 +55,7 @@
 <p align="justify">This generates Open Reading Frames (ORFs) from a protein sequence. ORFs are regions within a sequence that start with a start codon (usually "M" for methionine) and end with a stop codon. An ORF is a continuous sequence of nucleotides in DNA or RNA that potentially codes for a functional protein, which may be used for gene prediction, evolutionary studies, and genetic engineering.</p>
 
 ## RESULTS AND DISCUSSION
-<p align="center"><img width="400" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/110b2495-2dc0-453f-831b-3e57eeee8675"></p>
+<p align="center"><img width="700" alt="image" src="https://github.com/BioE-3101-Group1/LOOKING-INTO-DNA-SEQUENCE-OF-COVID-19-GENOME-1-2/assets/150891754/110b2495-2dc0-453f-831b-3e57eeee8675"></p>
 <p align="justify">The nucleotide sequence of the coronavirus disease (COVID-19) genome is the specific order of nucleotide bases such as adenine (A), cytosine (C), guanine (G), and thymine  (T), that make up the genetic material of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). 29,845 nucleotides are the total number of nucleotides used, however figure 1 only displays the initial 300 nucleotides for concise overview. Moreover, analyzing these initial sequences can provide insights about functional elements, such as coding region or regulatory sequence.</p>
 <br>
 
